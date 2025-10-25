@@ -1,7 +1,7 @@
 # =========================
 # Application Info
 # =========================
-spring.application.name=currency-exchange-service
+spring.application.name=currency-exchange-microservice
 server.port=8000
 
 # =========================
